@@ -3,13 +3,16 @@ title: iPhone Battery Health Guide
 date: 2023-10-14 
 categories: []
 tags: [battery]     # TAG names should always be lowercase
+author: <SathvikPN>
+toc: true
+comments: true
 ---
 
 If you are concerned about the battery health of your iPhone, here are few tips to assist you!
 
 ### Charge Slowly
 
-Electricity <--Battery--> Chemical Energy
+`Electricity <--Battery--> Chemical Energy`
 
 Slow charging mean less strain on chemicals inside.
 
